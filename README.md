@@ -1,5 +1,7 @@
 # gosri_signer
 
+![gosri_signer logo](gsri_signer_logo.png)
+
 **gosri_signer** es un programa diseñado para la simplicidad y el uso rápido desde cualquier otro programa o lenguaje que requiera firmar documentos XML para el sistema de Facturación Electrónica del **SRI (Servicio de Rentas Internas) del Ecuador**. 
 
 Está pensado para ser integrado fácilmente como una herramienta de línea de comandos, quitando al usuario la pesada carga de tener que investigar e implementar algoritmos criptográficos, canonicalizaciones complejas y el estándar de firmas XAdES-BES del SRI en su lenguaje de programación de preferencia (PHP, Python, Node.js, Ruby, Java, etc).
